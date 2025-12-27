@@ -1,6 +1,11 @@
-<h1 style="color:#007ACC;">
-طبقه‌بندی احساسات با مدل‌های زبانی بزرگ و دیتاست احساسات
+<h1>
+<span style="color:#007ACC;">طبقه‌بندی احساسات</span>
+با
+<span style="color:#e91e63;">مدل‌های زبانی بزرگ</span>
+و
+<span style="color:#ff9800;">دیتاست احساسات</span>
 </h1>
+
 
 <div dir="rtl">
  
