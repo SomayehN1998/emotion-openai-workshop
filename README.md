@@ -1,10 +1,3 @@
-<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#FF9500"/>
-  <text x="50%" y="60%" font-family="Vazir, Tahoma, sans-serif" font-size="60" font-weight="bold" fill="white" text-anchor="middle" direction="rtl">
-    طبقه‌بندی احساسات با مدل‌های زبانی بزرگ و دیتاست احساسات
-  </text>
-</svg>
-
  
 **طبقه‌بندی احساسات توییت‌های انگلیسی** با استفاده از:
 
