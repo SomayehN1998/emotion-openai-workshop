@@ -1,4 +1,6 @@
 ![Header](header.svg)
+
+![Description of image](https://github.com/SomayehN1998/emotion-openai-workshop/blob/main/Sentiment%20Analysis%20Sticker.png)
  
 **طبقه‌بندی احساسات توییت‌های انگلیسی** با استفاده از:
 
